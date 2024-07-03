@@ -1,20 +1,18 @@
 #EXTM3U
-
 # Canales Latinos
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Telemundo_2021.svg" group-title="Latinos",Telemundo
-https://stream-tele1.example.com/tele1.m3u8
+http://stream.todostreaming.es/televalencia/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo_Univision_2019.svg" group-title="Latinos",Univision
-https://stream-univ.example.com/univ.m3u8
+https://unlimited1-us.dps.live/univision/univision.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Caracol" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Caracol_Televisión_logo.svg" group-title="Latinos",Caracol TV
-https://stream-caracol.example.com/caracol.m3u8
+https://mdstrm.com/live-stream-playlist/57b4f132c7c08e0d2c8b456a.m3u8
 #EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Telefe_logo_2018.svg" group-title="Latinos",Telefe
-https://stream-telefe.example.com/telefe.m3u8
+https://live-edge01.telefe.com/live/telefe/playlist.m3u8
 
 # Películas en Estreno 2024
 #EXTINF:-1 tvg-id="Movie1" tvg-name="Película Estreno 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Movie_poster.svg" group-title="Movies",Película Estreno 1
-https://stream-movie1.example.com/movie1.m3u8
+http://stream.movienetwork.com/movie1/playlist.m3u8
 #EXTINF:-1 tvg-id="Movie2" tvg-name="Película Estreno 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Movie_poster.svg" group-title="Movies",Película Estreno 2
-https://stream-movie2.example.com/movie2.m3u8
+http://stream.movienetwork.com/movie2/playlist.m3u8
 #EXTINF:-1 tvg-id="Movie3" tvg-name="Película Estreno 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Movie_poster.svg" group-title="Movies",Película Estreno 3
-https://stream-movie3.example.com/movie3.m3u8
-
+http://stream.movienetwork.com/movie3/playlist.m3u8
