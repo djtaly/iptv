@@ -1,0 +1,324 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/gtv.png" group-title="BANGLADESHI",GAZI TV
+http://stream.asdd.cc:9191/Gazi-TV/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/logo/tsports.jpg" group-title="BANGLADESHI",T-sports
+http://stream.asdd.cc:9191/T-sports/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/maasranga.png" group-title="BANGLADESHI",MAASRANGA TV
+http://103.55.144.46:80/hls/masranga.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/ekattortv.png" group-title="BANGLADESHI",EKATTOR TV
+http://stream.asdd.cc:9191/nexus-tv/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/channeli.png" group-title="BANGLADESHI",CHANNEL I
+http://stream.asdd.cc:9191/Channel-i/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/deeptotv.png" group-title="BANGLADESHI",DEPTO BANGLA
+http://stream.asdd.cc:9191/deepto-tv/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/channel9.png" group-title="BANGLADESHI",CHANNEL 9
+http://stream.asdd.cc:9191/Channel-9/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/satv.png" group-title="BANGLADESHI",SATV
+http://stream.asdd.cc:9191/SATV/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/ntv.png" group-title="BANGLADESHI",NTV
+http://stream.asdd.cc:9191/ntv/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/atn-bangla.jpg" group-title="BANGLADESHI",ATN BANGLA
+http://stream.asdd.cc:9191/ATN-Bangla/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/atn-news.jpg" group-title="BANGLADESHI",ATN NEWS
+http://dangguli.live:8080/ATNNews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/atnislamic.png" group-title="BANGLADESHI",ATN ISLAMIC
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/rtv.jpg" group-title="BANGLADESHI",RTV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/independent.png" group-title="BANGLADESHI",INDEPENDENT TV
+http://stream.asdd.cc:9191/INDEPENDENT-TV/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/jamuna-tv.jpg" group-title="BANGLADESHI",JAMUNA TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/gaanbangla.png" group-title="BANGLADESHI",GAAN BANGLA
+http://stream.asdd.cc:9191/GaanBangla/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/somoytv.png" group-title="BANGLADESHI",SOMOY TV
+http://stream.asdd.cc:9191/Somoy-tv/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/news24.png" group-title="BANGLADESHI",NEWS 24
+http://stream.asdd.cc:9191/News-24/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/dbcnews.png" group-title="BANGLADESHI",DBC NEWS
+http://stream.asdd.cc:9191/DBC-News/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/ekusheytv.png" group-title="BANGLADESHI",EKUSHEY TV
+http://stream.asdd.cc:9191/Ekushey-TV/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/anandatv.png" group-title="BANGLADESHI",ANANDA TV
+http://stream.asdd.cc:9191/Anando-TV/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/banglatv.png" group-title="BANGLADESHI",BANGLA TV
+http://stream.asdd.cc:9191/Bangla-TV/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/boishakhitv.jpg" group-title="BANGLADESHI",BOISHAKHI TV
+https://bd.jagobd.com:444/live-orgin/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/boishakhitv.jpg" group-title="BANGLADESHI",BOISHAKHI TV PLUS
+https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/logo/nexus.jpg" group-title="BANGLADESHI",NEXUS TV
+http://172.31.1.10:2320/Nexuxtv-IRD/video.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/deshtv.png" group-title="BANGLADESHI",DESH TV
+http://asdd.cc:7444/live/cafe/cafe/2190.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/bijoy-tv.jpg" group-title="BANGLADESHI",BIJOY TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/asiantv.png" group-title="BANGLADESHI",ASIAN TV
+http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/mohonatv.png" group-title="BANGLADESHI",MOHONA TV
+http://stream.asdd.cc:9191/mohona-tv/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/channel24.png" group-title="BANGLADESHI",CHANNEL 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/banglavision.png" group-title="BANGLADESHI",BANGLA VISION
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/mytv.png" group-title="BANGLADESHI",MY TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/btv.png" group-title="BANGLADESHI",BTV
+http://103.106.2.152:13456/btv.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/BTV.png" group-title="BANGLADESHI",BTV WORLD
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BANGLADESHI",SANGSAD TV
+http://103.106.2.152:13456/sangsad.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/sonny-8.jpg" group-title="INDIAN",SONY AATH
+http://stream.asdd.cc:9191/sony-aath/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/zeebangla.png" group-title="INDIAN",ZEE BANGLA HD
+http://stream.asdd.cc:9191/zee-bangla-HD/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/starjalsha.png" group-title="INDIAN",STAR JALSHA HD
+http://stream.asdd.cc:9191/star-jalsha/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/Sun_Bangla.png" group-title="INDIAN",SUN BANGLA HD
+http://stream.asdd.cc:9191/sunbangla/index.m3u8 
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/colorsbangla.png" group-title="INDIAN",COLORS BANGLA HD
+http://stream.asdd.cc:9191/colors-bangla/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/jalshamovies.png" group-title="INDIAN",JALSHA MOVIES
+http://stream.asdd.cc:9191/Jalsha-movies/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/zeebanglacinema.png" group-title="INDIAN",ZEE BANGLA CINEMA
+http://stream.asdd.cc:9191/zee-bangla-cinema/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://en.wikipedia-on-ipfs.org/I/Logo_of_Colors_Bangla_Cinema.jpg" group-title="INDIAN",COLORS BANGLA CINEMA
+http://stream.asdd.cc:9191/colors-bangla-cinema/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/sangeetbangla.png" group-title="INDIAN",SANGEET BANGLA
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/travelxp.png" group-title="INDIAN",TRAVEL XP HD
+http://stream.asdd.cc:9191/travel-xp/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/sony-entertainment-tv.jpg" group-title="INDIAN",SONY HD
+http://103.55.144.46/hls/sonyen.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/starplushd.png" group-title="INDIAN",STAR PLUS
+http://stream.asdd.cc:9191/Star-Plus/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/zeetv.png" group-title="INDIAN",ZEE TV HD
+http://stream.asdd.cc:9191/zee-tv-hd/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/zee-cinema-hd.jpg" group-title="INDIAN",ZEE CINEMA
+http://stream.asdd.cc:9191/zee-cinema-hd/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/colors.png" group-title="INDIAN",COLORS HD
+http://103.55.144.46/hls/colore-tv-hd.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Colors-cineplex.png/220px-Colors-cineplex.png" group-title="INDIAN",COLORS CINEPLEX
+http://stream.asdd.cc:9191/Colors-cineplex/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/set-max.png" group-title="INDIAN",SETMAX HD
+http://stream.asdd.cc:9191/Sony-Max/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/stargoldhd.png" group-title="INDIAN",STAR GOLD 
+http://stream.asdd.cc:9191/star-gold-hd/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest/scale-to-width-down/200?cb=20211215235100" group-title="INDIAN",STAR GOLD 2
+http://stream.asdd.cc:9191/star-gold-hd-2/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/sony-pix.png" group-title="INDIAN",SONY PIX HD
+http://103.55.144.46/hls/sonypixhd.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/%26flix.png" group-title="INDIAN",&Flix
+http://stream.asdd.cc:9191/and-flix/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/axnhd.png" group-title="ENGLISH",AXN HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/42.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/starmovies.png" group-title="ENGLISH",STAR MOVIES
+http://stream.asdd.cc:9191/star-movies/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/movies-now.jpg" group-title="ENGLISH",MOVIES NOW
+http://stream.asdd.cc:9191/Movies-now/index.m3u8 
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/%26picturehd.png" group-title="ENGLISH",AND PICTURE HD
+http://stream.asdd.cc:9191/and-Picture-HD/index.m3u8 
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/mnplus.png" group-title="ENGLISH",MN+
+http://stream.asdd.cc:9191/mn+/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/starworld.png" group-title="ENGLISH",STAR WORLD HD
+http://stream.asdd.cc:9191/star-world/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/mnx.png" group-title="ENGLISH",MNX
+http://stream.asdd.cc:9191/mnx/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/220px-%26priv%C3%A9_HD.svg.png" group-title="ENGLISH",AND PRIVE HD
+http://stream.asdd.cc:9191/and-prive-hd/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/hbohd.png" group-title="ENGLISH",HBO HD
+http://stream.asdd.cc:7444/live/cafe/cafe/2467.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/tlc.png" group-title="ENGLISH",TLC HD
+http://stream.asdd.cc:9191/TLC/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/bbcworldnews.png" group-title="ENGLISH",BBC WORLD
+http://103.55.144.46/hls/bbcworld.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/bbc-earth.png" group-title="ENGLISH",BBC EARTH
+http://103.55.144.46/hls/bbcearth.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/bbc-life.png" group-title="ENGLISH",BBC Lifestyle
+http://stream.asdd.cc:9191/BBC-lifestyle/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="ENGLISH",NHK WORLD JAPAN
+http://stream.asdd.cc:9191/NHK-World/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/dw.png" group-title="ENGLISH",DW
+http://stream.asdd.cc:9191/DW/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/cnn.png" group-title="ENGLISH",CNN
+http://stream.asdd.cc:9191/CNN/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/sony-ten-1-hd.jpg" group-title="SPORTS",SONY TEN 1
+http://103.55.144.46/hls/sonyten1.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/sony-ten-2-hd.jpg" group-title="SPORTS",SONY TEN 2 HD
+http://103.55.144.46/hls/sonyten2.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/sony-ten-3-hd.jpg" group-title="SPORTS",SONY TEN 3 HD
+http://stream.asdd.cc:9191/sony-ten-3-hd/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/240px-BeIN_Sports.png" group-title="SPORTS",BEIN SPORTS 1
+http://stream.asdd.cc:7444/live/cafe/cafe/2463.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/240px-BeIN_Sports.png" group-title="SPORTS",BEIN SPORTS 2
+http://stream.asdd.cc:7444/live/cafe/cafe/2464.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/sony-six-hd.jpg" group-title="SPORTS",SONY SIX HD
+http://stream.asdd.cc:9191/Sony-Six/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/star-selected-hd-1.jpg" group-title="SPORTS",Star Sports Select 1 HD
+http://stream.asdd.cc:9191/star-sports-select-1/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/star-selected-hd-2.jpg" group-title="SPORTS",Star Sports Select 2 HD
+http://stream.asdd.cc:9191/star-sports-select-2/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/star-sports-hd-1.jpg" group-title="SPORTS",STAR SPORTS 1
+http://stream.asdd.cc:9191/star-sports-1/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/star-sports-hd-2.jpg" group-title="SPORTS",STAR SPORTS 2
+http://stream.asdd.cc:9191/star-sports-2/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/ten-sports.jpg" group-title="SPORTS",TEN SPORTS
+http://stream.asdd.cc:9191/ten-sports/index.m3u8 
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/ptvsports.png" group-title="SPORTS",PTV Sports
+http://stream.asdd.cc:9191/ptv-sports/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="SPORTS",REDBULL TV
+http://stream.asdd.cc:9191/Redbull-TV/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/220px-Eurosport_Logo_2015.svg.png" group-title="SPORTS",EURO SPORTS
+http://103.55.144.46/hls/euro.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/aljazira.png" group-title="DOCUMENTORY",Aljazeera HD
+http://stream.asdd.cc:9191/Al-Jazeera/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/tlc.png" group-title="DOCUMENTORY",TLC
+http://stream.asdd.cc:9191/TLC/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/animalplanet.png" group-title="DOCUMENTORY",ANIMAL PLANET
+http://stream.asdd.cc:9191/animal-planet/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/1200px-Nat_Geo_Wild_Canada.svg.png" group-title="DOCUMENTORY",NAT GEO WILD
+http://stream.asdd.cc:9191/nat-geo-wild/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/discovery.png" group-title="DOCUMENTORY",DISCOVERY BANGLA
+http://stream.asdd.cc:9191/discovery/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/200px-Discovery_Science_2017_Logo.svg.png" group-title="DOCUMENTORY",DISCOVERY SIENCE
+http://stream.asdd.cc:9191/Discovery-Science/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/duronto.png" group-title="CARTOON",DURONTO TV
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/cartoonnetwork.png" group-title="CARTOON",CARTOON NETWORK
+http://stream.asdd.cc:9191/Cartoon-Network/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/disneyjunior.png-" group-title="CARTOON",DISENY CARTOON
+http://stream.asdd.cc:9191/disney-jr/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/sony-yay.png" group-title="CARTOON",SONY YAY
+http://stream.asdd.cc:9191/Sony-YAY/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Spacetoon_logo.png/220px-Spacetoon_logo.png" group-title="CARTOON",SPACETOON
+http://stream.asdd.cc:9191/Spacetoon/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/220px-Nick_Jr._Channel_logo.svg.png" group-title="CARTOON",NICK JR
+http://stream.asdd.cc:9191/nick-jr/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/nick.png" group-title="CARTOON",NICK HD+
+http://stream.asdd.cc:9191/nick-hd/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/zing.png" group-title="MUSIC",ZING
+http://stream.asdd.cc:7444/live/cafe/cafe/3398.m3u8
+
+#EXTINF:-1  tvg-logo="http://storage.iplex.live/IPTV/img/zoom.png" group-title="MUSIC",ZOOM
+http://stream.asdd.cc:9191/zoom/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/9xm.png" group-title="MUSIC",9XM
+http://stream.asdd.cc:9191/9XM/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/Bindass_tv_channel.png" group-title="MUSIC",BINDASS
+http://stream.asdd.cc:9191/bindass/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/mtv.png" group-title="MUSIC",MTV
+http://stream.starplex.live:2356/tvprogram/MTV/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRKoUAk7eB5XtAXdtP4p3zfRjWHqIm-8KKvz2Zf6A=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC",9X JALWA
+http://stream.asdd.cc:9191/9XM-jalwa/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/music-musti.png" group-title="MUSIC",MUSIC MASTI
+http://stream.asdd.cc:9191/Music-Masti/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/b4umusic.png" group-title="MUSIC",B4U MUSIC
+http://stream.starplex.live:2356/tvprogram/B4U-MUSIC/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.starplex.live/tv/logo/music-india.png" group-title="MUSIC",MUSIC INDIA
+http://stream.asdd.cc:9191/Music-india/index.m3u8u8
